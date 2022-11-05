@@ -1,6 +1,6 @@
-#Tic Tac Toe Playing Robotic Arm
+# Tic Tac Toe Playing Robotic Arm
 
-#How To Run
+## How To Run
 
 - Clone the Repository:  ``` git clone https://github.com/Warlord-K/TicTacToeRoboticArm.git ```
 
@@ -11,3 +11,8 @@
 
 - Run ``` python play.py --model "data/model.h5" 1 ```
 - Play!
+
+## Contributors
+
+[Yatharth Gupta](https://www.linkedin.com/in/yatharth-gupta-012177228/)
+[Srijan Parashar](https://www.linkedin.com/in/srijan-parashar-8a46bb1a1/)
