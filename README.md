@@ -15,4 +15,5 @@
 ## Contributors
 
 [Yatharth Gupta](https://www.linkedin.com/in/yatharth-gupta-012177228/)
+
 [Srijan Parashar](https://www.linkedin.com/in/srijan-parashar-8a46bb1a1/)
